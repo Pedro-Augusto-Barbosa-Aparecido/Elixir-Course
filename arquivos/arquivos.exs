@@ -1,0 +1,1 @@
+MeuModulo.Arquivos.escrever("segundo_teste")
